@@ -33,7 +33,7 @@
     .list-hours .list-hours-item.today{font-weight:700;color:#56e6a3}@media (min-width:992px){.list-hours{width:50%;font-size:1.1rem}}
     .address strong{font-size:1.2rem}
     .footer{background-color:rgba(67, 143, 179, 0.9)}
-    .text-primary{color:#e6a756!important}
+    .text-primary{color:#56e6a3!important}
     .bg-primary{background-color:#e6a756!important}.btn{-webkit-box-shadow:0 3px 3px 0 rgba(33,37,41,.1);box-shadow:0 3px 3px 0 rgba(33,37,41,.1)}
     .btn-primary{background-color:#56e6a3;border-color:#56e6a3}
     .btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#df902a;border-color:#df902a}.font-weight-light{font-weight:100!important}
