@@ -30,7 +30,7 @@
     .product-item .product-item-description{position:relative;z-index:1;margin-top:-3rem;max-width:50vw}}
     .list-hours{font-size:.9rem}
     .list-hours .list-hours-item{border-bottom:1px solid rgba(230,167,86,.5);padding-bottom:.25rem;margin-bottom:1rem;font-style:italic}
-    .list-hours .list-hours-item.today{font-weight:700;color:#56e6a3}@media (min-width:992px){.list-hours{width:50%;font-size:1.1rem}}
+    .list-hours .list-hours-item.today{font-weight:100;color:#000000}@media (min-width:992px){.list-hours{width:50%;font-size:1.1rem}}
     .address strong{font-size:1.2rem}
     .footer{background-color:rgba(67, 143, 179, 0.9)}
     .text-primary{color:#56e6a3!important}
