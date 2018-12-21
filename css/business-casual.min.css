@@ -46,7 +46,7 @@
     .class1-img2{height:500px;float:left;}
     .class1-text2{right:0;}
     .class1-img3{height:200px;float:left;padding-right:20px;}
-    .class1-text3{right:0;height:200px;}
+    .class1-text3{right:0;height:100%;}
 
     /* The Modal (background) */
 .modal {
