@@ -39,8 +39,8 @@
     .btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#df902a;border-color:#df902a}.font-weight-light{font-weight:100!important}
     .class-button{width:100%;left:5;position:absolute;bottom:-2rem}
     .class1-button{width:100%;left:0;position:absolute;bottom:-2rem}
-    .staff-img{height:500px;float:left}
-    .staff-text{right:0;height:500px;width:50%;margin-top:0rem;position:absolute;}
+    .staff-img{height:300px;float:left;padding-right:20px;}
+    .staff-text{right:0;height:100%;}
     .class1-img1{height:500px;float:right;}
     .class1-text1{left:0;}
     .class1-img2{height:500px;float:left;}
